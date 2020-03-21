@@ -1,0 +1,19 @@
+Полезные ссылки
+
+https://material.io/design/         //правила оформления
+https://developer.android.com/      //Докумментация
+
+20.03 Меню и диалоги
+Пример который разбирали на парах
+https://github.com/dlik01/menu-and-dialog
+
+дополительно о работе диалогов и меню
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/117-urok-58-dialogi-timepickerdialog.html
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/127-urok-66-dialogi-obrabotchiki-i-operatsii.html
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/180-urok-110-android-3-fragments-dialogfragment-dialog.html
+
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/45-urok-13-sozdanie-prostogo-menju.html
+
+Что нужно будет сделать самостоятельно:
+
+Добавить к Вашему репозиторию меню и диалог. Обработать кнопки по вашему успотрению.
