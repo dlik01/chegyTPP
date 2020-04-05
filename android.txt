@@ -17,3 +17,19 @@ https://startandroid.ru/ru/uroki/vse-uroki-spiskom/45-urok-13-sozdanie-prostogo-
 Что нужно будет сделать самостоятельно:
 
 Добавить к Вашему репозиторию меню и диалог. Обработать кнопки по вашему успотрению.
+
+
+27.03 Activity Intent и sharet
+Разобраный пример
+https://github.com/dlik01/activity
+
+Дополнительно о работе класса Intent и SharedPreferences
+https://developer.android.com/reference/android/content/Intent
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/58-urok-21-sozdanie-i-vyzov-activity.html
+
+https://developer.android.com/reference/android/content/SharedPreferences
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/73-urok-33-hranenie-dannyh-preferences.html
+
+Что нужно будет сделать самостоятельно:
+
+Добавить окно для ввода данных (на ваше усмотрение) после ввода их сохранить.
